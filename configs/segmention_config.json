@@ -1,0 +1,19 @@
+{
+  "exp_name": "OpticDisc",
+  "epochs": 20,
+  "batch_size": 15,
+  "patch_height": 128,
+  "patch_width": 128,
+  "subsample": 200,
+  "total_train": 902,
+  "total_val": 121,
+  "train_datatype": "png",
+  "val_datatype": "png",
+  "test_datatype": "png",
+  "test_gt_datatype":"png",
+  "height":240,
+  "width": 240,
+  "stride_height": 20,
+  "stride_width": 20,
+  "seg_num": 1
+}
